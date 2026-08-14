@@ -26,5 +26,5 @@ Then open `http://localhost:3000`.
 
 ## Deploying
 Deploy `server/index.js` to any Node host (Render, Railway, Fly.io, etc.) and set `ANTHROPIC_API_KEY` as an environment variable in that host's dashboard — not in the code.
-<img width="956" height="518" alt="image" src="https://github.com/user-attachments/assets/d64a12f5-e953-4457-a6b3-f1015d66ddd8" />
+<img width="956" height="446" alt="Screenshot 2026-08-15 011329" src="https://github.com/user-attachments/assets/e7301c7a-8cf5-4f24-bba9-cce8e0c2ad2e" />
 
